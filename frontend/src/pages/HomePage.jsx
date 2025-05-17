@@ -12,6 +12,11 @@ const categories = [
 	{ href: "/jackets", name: "Jackets", imageUrl: "/jackets.jpg" },
 	{ href: "/suits", name: "Suits", imageUrl: "/suits.jpg" },
 	{ href: "/bags", name: "Bags", imageUrl: "/bags.jpg" },
+	{ href: "/electronics", name: "Electronics", imageUrl: "/electronics.jpg"},
+	{ href: "/furnitures", name: "Furnitures", imageUrl: "/furnitures.jpg" },
+	{ href: "/groceries", name: "Groceries", imageUrl: "/groceries.jpeg" },
+	{ href: "/cafe", name: "Cafe", imageUrl: "/cafe.jpg" },
+	{ href: "/pharmacy", name: "Pharmacy", imageUrl: "/pharmacy.jpg" },
 ];
 
 const HomePage = () => {
